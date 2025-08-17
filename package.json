@@ -1,0 +1,45 @@
+{
+  "name": "luxury-lrp-cosmetics",
+  "version": "1.0.0",
+  "description": "A luxury cosmetics website for luxury LRP cosmetics, featuring high-end design and elegant 3D effects.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.164.1",
+    "framer-motion": "^10.18.0",
+    "axios": "^0.21.1",
+    "react-router-dom": "^6.20.0",
+    "@mui/material": "^5.0.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "next": "^14.2.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "autoprefixer": "^10.4.19"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.27.0",
+    "typescript": "^5.4.5",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "keywords": [
+    "cosmetics",
+    "luxury",
+    "luxury LRP cosmetics",
+    "elegant",
+    "3D design"
+  ],
+  "author": "luxury LRP cosmetics",
+  "license": "ISC",
+  "private": true
+}
